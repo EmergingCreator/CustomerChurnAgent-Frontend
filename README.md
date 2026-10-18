@@ -30,3 +30,7 @@ Combining these capabilities helps businesses identify customers at risk of leav
 - **Docker** — Containerization
 - **Render** — Deployment
 
+### Project Links
+
+- **Portfolio:** https://portfolio-ivory-three-55.vercel.app/
+- **LinkedIn Project Post:** [View Project on LinkedIn](https://lnkd.in/p/g6tuGCxB)
